@@ -1,2 +1,2 @@
 # Blood-Bank-Management
-Simple blood bank management portal
+Simple Blood Bank Management Portal
